@@ -24,7 +24,7 @@
     "faker": "^4.1.0",
     "googleapis": "^47.0.0",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.8.4",
     "morgan": "^1.9.1",
     "oracledb": "^4.2.0",
